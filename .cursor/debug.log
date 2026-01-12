@@ -1,0 +1,5 @@
+{"sessionId":"debug-session","runId":"initial","hypothesisId":"H1","location":"App.tsx:scrollTo","message":"scrollTo called","data":{"id":"about"},"timestamp":1767605361561}
+{"sessionId":"debug-session","runId":"initial","hypothesisId":"H1","location":"App.tsx:scrollTo","message":"scrollTo called","data":{"id":"experience"},"timestamp":1767605363566}
+{"sessionId":"debug-session","runId":"initial","hypothesisId":"H1","location":"App.tsx:scrollTo","message":"scrollTo called","data":{"id":"projects"},"timestamp":1767605365476}
+{"sessionId":"debug-session","runId":"initial","hypothesisId":"H1","location":"App.tsx:scrollTo","message":"scrollTo called","data":{"id":"projects"},"timestamp":1767605752748}
+{"sessionId":"debug-session","runId":"initial","hypothesisId":"H1","location":"App.tsx:scrollTo","message":"scrollTo called","data":{"id":"contact"},"timestamp":1767605755605}
